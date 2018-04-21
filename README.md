@@ -1,5 +1,8 @@
 # IITK-Sports-Equipment-Inventory
 CS315 DBMS Project
 ---
+Install `MongoDB` and `Node.js` on your machine.
 
-Install all the required packages mentioned in the `dependencies` file to get started
+Install `nodemon` globally using `npm install --save -g nodemon`. 
+
+Install all the required packages using `npm install --save [package name]` mentioned in the `dependencies` file to get started.
