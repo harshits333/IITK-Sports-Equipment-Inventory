@@ -1,0 +1,28 @@
+{
+  "name": "DBMS Project",
+  "version": "1.0.0",
+  "description": "Course Project for CS315",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshit Saini",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "express-fileupload": "^0.4.0",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.1.1",
+    "fs-extra": "^5.0.0",
+    "mkdirp": "^0.5.1",
+    "mongoose": "^5.0.13",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "resize-img": "^1.1.2"
+  }
+}

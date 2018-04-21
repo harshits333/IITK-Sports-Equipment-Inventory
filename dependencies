@@ -1,0 +1,3 @@
+npm install --save -g nodemon
+
+npm install --save bcryptjs body-parser connect-flash ejs express express-fileupload express-messages express-session express-validator fs-extra mkdirp mongoose passport passport-local resize-img
